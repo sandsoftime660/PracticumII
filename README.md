@@ -39,7 +39,4 @@ Finally, a dashboard app was created to visualize any feature drift. This is rea
 
 # A video of this project with a demo is available here: 
 
-# This project was a bit more difficult to present since the real work is all backend processes
-
-## There are several different notebooks, python scripts, and data files in this repository. Feel free to browse through them. They are really there for reference since several servers and databases are needed to run the code.  
-
+# This project was a bit more difficult to present since the real work is all backend processes. There are several different notebooks, python scripts, and data files in this repository. Feel free to browse through them. They are really there for reference since several servers and databases are needed to run the code.  
