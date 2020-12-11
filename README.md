@@ -37,6 +37,6 @@ Finally, a dashboard app was created to visualize any feature drift. This is rea
 
 ![Image of Overall](https://github.com/sandsoftime660/PracticumII/blob/main/Images/Slide20.PNG)
 
-# A video of this project with a demo is available here: 
+# A video of this project with a demo is available here: https://youtu.be/eW05X-vuR-w
 
 # This project was a bit more difficult to present since the real work is all backend processes. There are several different notebooks, python scripts, and data files in this repository. Feel free to browse through them. They are really there for reference since several servers and databases are needed to run the code.  
