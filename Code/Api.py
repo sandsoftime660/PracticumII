@@ -199,9 +199,9 @@ if __name__ == '__main__':
             import smtplib, ssl
             port = 465  # For SSL
             smtp_server = "smtp.gmail.com"
-            password = "1Sexything!"
-            receiver = "sandsoftime660@gmail.com"
-            sender = "sandsoftime660@gmail.com"
+            password = ""
+            receiver = ""
+            sender = ""
             subject = "Work Comp Model Independent Feature Distribution Differences Found"
             
             body = """
